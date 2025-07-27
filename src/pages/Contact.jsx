@@ -8,7 +8,7 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6 text-primary" />,
       title: 'Phone',
-      details: '780 803 8076',
+      details: '416 800 9920',
       description: 'Call us for immediate assistance'
     },
     {
@@ -20,7 +20,7 @@ const Contact = () => {
     {
       icon: <MapPin className="h-6 w-6 text-primary" />,
       title: 'Address',
-      details: '1496 33 A Street NW, Edmonton-T6T 0V3',
+      details: '130 King St W Suite 1900',
       description: 'Visit our office location'
     },
     {
@@ -318,7 +318,7 @@ const Contact = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" variant="secondary" className="text-lg px-8 py-6">
                 <a href="tel:7808038076">
-                  Call Now: 780 803 8076
+                  Call Now: 416 800 9920
                   <Phone className="ml-2 h-5 w-5" />
                 </a>
               </Button>
