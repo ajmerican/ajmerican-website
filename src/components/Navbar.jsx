@@ -26,15 +26,15 @@ const Navbar = () => {
           <div className="flex items-center space-x-4">
             <div className="flex items-center space-x-1">
               <Phone className="h-4 w-4" />
-              <span>780 803 8076</span>
+              <span>416 800 9920</span>
             </div>
             <div className="flex items-center space-x-1">
               <Mail className="h-4 w-4" />
-              <span>ajmerican.com@gmail.com</span>
+              <span>info@ajmerican.com</span>
             </div>
           </div>
           <div className="hidden md:block">
-            <span>1496 33 A Street NW, Edmonton-T6T 0V3</span>
+            <span>130 King St W Suite 1900,Toronto, ON M5X 2A2</span>
           </div>
         </div>
       </div>
