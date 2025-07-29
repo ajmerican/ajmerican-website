@@ -34,7 +34,7 @@ const Navbar = () => {
             </div>
           </div>
           <div className="hidden md:block">
-            <span>130 King St W Suite 1900</span>
+            <span>130 King St W Suite 1900,Toronto, ON M5X 2A2</span>
           </div>
         </div>
       </div>
@@ -96,4 +96,6 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
 

@@ -14,7 +14,7 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6 text-primary" />,
       title: 'Email',
-      details: 'ajmerican.com@gmail.com',
+      details: 'info@ajmerican.com',
       description: 'Send us your questions anytime'
     },
     {
@@ -317,13 +317,13 @@ const Contact = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" variant="secondary" className="text-lg px-8 py-6">
-                <a href="tel:7808038076">
+                <a href="tel:4168009920">
                   Call Now: 416 800 9920
                   <Phone className="ml-2 h-5 w-5" />
                 </a>
               </Button>
               <Button asChild size="lg" variant="outline" className="text-lg px-8 py-6 border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary">
-                <a href="mailto:ajmerican.com@gmail.com">
+                <a href="mailto:info@ajmerican.com">
                   Send Email
                   <Mail className="ml-2 h-5 w-5" />
                 </a>
