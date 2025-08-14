@@ -1,0 +1,1 @@
+Generated 2025-08-12. Update contact form action to your Render API URL.

@@ -1,0 +1,1 @@
+function toggleMenu(){ document.querySelector('.header').classList.toggle('open'); }
